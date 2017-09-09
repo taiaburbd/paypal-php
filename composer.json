@@ -1,0 +1,14 @@
+{
+    "name": "taiaburbd/paypal-php",
+    "description": "Paypal Express Checkout Library for php Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taiaburbd",
+            "email": "taiaburbd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
